@@ -17,3 +17,7 @@ Create Project -> Package -> Java Class
 -> run and print "Hello World!" 
 
 
+## How to install OpenJDK 
+link: https://adoptium.net/temurin/releases/
+choose based on your platform
+<img width="933" alt="image" src="https://github.com/user-attachments/assets/41807b18-81ab-4680-b6f7-f6da37137cf8">
