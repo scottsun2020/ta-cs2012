@@ -12,7 +12,7 @@ Create Project -> Package -> Java Class
 *Add Main Method 
 *sysout ctrl + space 
 *auto save 
-![image](https://github.com/user-attachments/assets/9fcd1f41-a327-40fa-a0af-d8fed7f3e5a9)
+<img width="780" alt="image" src="https://github.com/user-attachments/assets/907c9d61-c8c0-4442-9a1b-3eb7c97d66b2">
 
 -> run and print "Hello World!" 
 
