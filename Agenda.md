@@ -1,5 +1,9 @@
 # Agenda for Today
 
+### Career Center
+https://www.calstatela.edu/careercenter/interns-soar
+
+
 ### Tutor Schedule Available
 
 
