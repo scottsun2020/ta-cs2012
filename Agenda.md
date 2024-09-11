@@ -1,5 +1,8 @@
 # Agenda for Today
 
+### 9/11/24-9/12/24
+Professional Placement Coordinator: Sorel, Cambrian csorel@calstatela.edu
+
 ### Career Center
 https://www.calstatela.edu/careercenter/interns-soar
 
