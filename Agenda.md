@@ -3,6 +3,8 @@
 ### 9/11/24-9/12/24
 Professional Placement Coordinator: Sorel, Cambrian csorel@calstatela.edu
 
+
+### 9/4/24-9/5/24
 ### Career Center
 https://www.calstatela.edu/careercenter/interns-soar
 
