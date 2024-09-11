@@ -3,6 +3,9 @@
 ### 9/11/24-9/12/24
 Professional Placement Coordinator: Sorel, Cambrian csorel@calstatela.edu
 
+LinkedIn Learning Source:
+https://www.linkedin.com/learning/?trk=nav_neptune_learning&accountId=35553996&u=35553996&success=true&authUUID=t4L676LpTRmewOhMrOwB2g%3D%3D
+
 
 ### 9/4/24-9/5/24
 ### Career Center
