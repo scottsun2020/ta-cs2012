@@ -1,5 +1,9 @@
 # Agenda for Today
 
+Coding Interview:
+https://www.freecodecamp.org/news/coding-interviews-for-dummies-5e048933b82b/
+
+
 ### 9/11/24-9/12/24
 Professional Placement Coordinator: Sorel, Cambrian csorel@calstatela.edu
 
